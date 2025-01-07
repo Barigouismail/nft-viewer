@@ -1,0 +1,13 @@
+{
+  "name": "nft-viewer",
+  "version": "1.0.0",
+  "description": "A simple Web3 project to view NFTs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "web3": "^1.7.0"
+  }
+}
